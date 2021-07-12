@@ -1,0 +1,42 @@
+		@font-face{
+        font-family:i;
+        src:url(i.ttf)format("truetype")
+}
+
+		@font-face{
+        font-family:ib;
+        src:url(ib.ttf)format("truetype")
+        }
+header{background-color:#DD2C00;color:#ffffff;position:sticky;top:0;}
+	#myMenu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#mySearch {
+  width: 90%;
+  margin-left:3px;
+
+margin:2px;
+}
+h1{font-family:ib; background-color:#DD2C00;color:#ffffff;border-radius:30px;text-align:center;font-size:25px;margin:15px;}
+h6{display:none;}
+a{text-decoration:none;}
+marquee{font-family:i;font-size:20px;}
+h2{font-family:sans-serif-smallcaps;font-size:15px;}
+table.mobile {
+  font-family: Georgia, serif;
+ 
+ 
+  border: 3px solid red;
+  background-color: #D4EED1;
+  width: 100%;
+  text-align: left;
+}
+td{border: 1px solid red;padding:10px;}
+
+li.section{box-shadow:2px 3px 3px 2px #777777;border:1px solid #3E2723;color:#3E2723; background-color:#E0E0E0;font-family:i;font-size:20px;}
+div.sec{background-color:#E0E0E0;box-shadow:1px 1px 1px  #616161;}
+li.imei{border:1px solid #3E2723;color:#3E2723; background-color:#D7CCC8;font-family:i;font-size:20px;}
+li.sar{border:1px solid #33691E;color:#33691E; background-color:#C5E1A5;font-family:i;font-size:20px;}
+p.error{font-family:i;font-size:20px;}
