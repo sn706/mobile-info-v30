@@ -7,7 +7,7 @@
         font-family:ib;
         src:url(ib.ttf)format("truetype")
         }
-header{background-color:#DD2C00;color:#ffffff;position:sticky;top:0;}
+header{background-color:#DD2C00;color:#ffffff;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;}
 	#myMenu {
   list-style-type: none;
   padding: 0;
@@ -51,6 +51,7 @@ h3.fmd{font-family:ib;text-align:center;font-size:20px;}
 div.scrollmenu {
   background-color:#DD2C00;
   overflow: auto;
+ 
   white-space: nowrap;
   font-family:sans-serif-smallcaps;
   font-weight:bold;
@@ -68,3 +69,26 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
   background-color: #777;
 }
+
+
+
+li.data{background:var(--gradient);
+margin:1rem 2%;
+padding:1rem 3%; 
+border-radius:9px;
+
+   --color1:#FFEBEE;
+  --color2:#C5E1A5;
+  
+  --gradient:linear-gradient(90deg, var(--color1), var(--color2));}
+  
+h5{font-family:ib;color:red;font-size:20px;}
+hr.hd{
+  width:20%;
+  height:2px;
+  background-color:#1A237E;
+  border:0;
+  
+}
+div.video p{color:blue;}
+
