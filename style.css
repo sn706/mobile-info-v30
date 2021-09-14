@@ -7,6 +7,12 @@
         font-family:ib;
         src:url(ib.ttf)format("truetype")
         }
+        
+        
+        body{margin:1px;padding:1px;margin-bottom;9px;	color:white;	border-radius:9px;background:var(--gradient);	   --color1:#DD2C00;
+  --color2:#DCEDC8;
+  
+  --gradient:linear-gradient(90deg, var(--color1), var(--color2));}
 header{background-color:#DD2C00;color:#ffffff;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;}
 	#myMenu {
   list-style-type: none;
@@ -92,3 +98,4 @@ hr.hd{
 }
 div.video p{color:blue;}
 li{font-family: Georgia, serif;}
+div.sec{border-radius:9px;padding:2px;margin:3px;}
