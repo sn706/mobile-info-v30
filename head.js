@@ -1,2 +1,1 @@
-document.write('<header><input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search ......" title="Type in a category"></header>');
-
+document.write('<header><input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search ......" title="Type in a category"><div class="scrollmenu"><a href="https://www.plansinfo.com/">Recharge Plans</a><a href="customer care numbers.html">Customer Care Numbers</a><a href="message center numbers.html">Message Center Numbers</a><a href="ussd codes.html">USSD Codes</a></div></header>'); 
