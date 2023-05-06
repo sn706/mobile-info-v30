@@ -5,3 +5,5 @@ table.mobile { font-family: Georgia, serif; border: 3px solid red; background-co
 p{color:black;}
 li{background-color:#ffffff;box-shadow:1px 1px 1px #616161;padding:10px;}
 h3{font-family:ib;text-align:center;color:black;}
+h1{font-family:ib;text-align:center; background-color:#DD2C00;color:#ffffff;}
+h1 a{color:white;}
