@@ -1,8 +1,8 @@
 @font-face{ font-family:i; src:url(i.ttf)format("truetype") }
 
-@font-face{ font-family:menu; src:url(fonts/menu.ttf)format("truetype") }
+@font-face{ font-family:menu; src:url(menu.ttf)format("truetype") }
 
-@font-face{ font-family:head; src:url(fonts/head.ttf)format("truetype") }
+@font-face{ font-family:head; src:url(head.ttf)format("truetype") }
 
 p{font-family:i;}
 
