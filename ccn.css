@@ -1,0 +1,35 @@
+@font-face{ font-family:menu; src:url(fonts/menu.ttf)format("truetype") }
+
+@font-face{ font-family:i; src:url(i.ttf)format("truetype") }
+
+
+h1{font-family:menu;text-align:center;}
+
+
+
+#myMenu { list-style-type: none; padding: 0; margin: 0;}
+
+#mySearch { width: 90%; margin-left:3px; margin:2px;}
+
+
+
+h6{display:none;}
+
+a{text-decoration:none;color:red;}
+
+header{background-color:#ffffff;color:#DD2C00;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;}	
+
+h1{font-family:menu;text-align:center;}
+
+marquee p{font-size:20px;}
+
+p{font-family:i;}
+
+
+body{font-size:15px;}
+
+div.section {box-shadow:1px 1px 1px #777777;color:#3E2723; background-color:#ffffff;font-family:i;font-size:20px;}
+
+h4{text-align:center; background-color:red;color:white;}
+
+h1{font-size:25px;font-family:i;}

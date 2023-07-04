@@ -1,12 +1,11 @@
-@font-face{ font-family:i; src:url(i.ttf)format("truetype") }
-
 @font-face{ font-family:menu; src:url(fonts/menu.ttf)format("truetype") }
 
-@font-face{ font-family:head; src:url(fonts/head.ttf)format("truetype") }
+@font-face{ font-family:i; src:url(i.ttf)format("truetype") }
 
-p{font-family:i;}
 
-body{font-size:20px;}
+h1{font-family:menu;text-align:center;}
+
+li {background-color:#DD2C00;color:white;box-shadow:1px 5px 1px #616161;border-radius:9px;}
 
 #myMenu { list-style-type: none; padding: 0; margin: 0;}
 
@@ -16,7 +15,7 @@ body{font-size:20px;}
 
 h6{display:none;}
 
-a{text-decoration:none;}
+a{text-decoration:none;color:#ffffff;}
 
 header{background-color:#ffffff;color:#DD2C00;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;}	
 
@@ -24,7 +23,12 @@ h1{font-family:menu;text-align:center;}
 
 marquee p{font-size:20px;}
 
-h3{font-family:head;}
+p{font-family:i;font-size:20px;}
 
-li {background-color:#ffffff;box-shadow:1px 5px 1px #616161;}
+h3{font-family:menu;}
 
+
+body{font-size:15px;}
+
+li.section{border: none; border-radius: 10px 10px; background: #DD2C00;
+}

@@ -1,1 +1,1 @@
-document.write('<p></p>');
+document.write('<footer><p></p></footer>');
