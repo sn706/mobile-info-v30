@@ -2,11 +2,11 @@
 
 @font-face{ font-family:menu; src:url(menu.ttf)format("truetype") }
 
-@font-face{ font-family:head; src:url(head.ttf)format("truetype") }
-
+@font-face{ font-family:head; src:url(head.ttf)format("truetype") } 
 p{font-family:i;}
 
-body{font-size:20px;}
+
+
 
 #myMenu { list-style-type: none; padding: 0; margin: 0;}
 
@@ -18,7 +18,7 @@ h6{display:none;}
 
 a{text-decoration:none;}
 
-header{background-color:#ffffff;color:#DD2C00;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;}	
+header{background-color:white;position:sticky;top:0;font-family:sans-serif-smallcaps;margin:0px;color:red;}	
 
 h1{font-family:menu;text-align:center;}
 
@@ -27,4 +27,45 @@ marquee p{font-size:20px;}
 h3{font-family:head;}
 
 li {background-color:#ffffff;box-shadow:1px 5px 1px #616161;}
+#result{color:red;font-family:head;}
+#head{border: none; border-radius: 40px 10px; background:#DCEDC8 ;}
+#wishes{font-family:i;text-align:center;}
+div.item {color:white;background: linear-gradient(360deg, #fd6f46 10%, #33691E 90%); }
+div.scrollmenu a{padding:14px;display:inline-block;font-family:sans-serif-smallcaps;color:#3E2723;}
+div.scrollmenu{background-color:#FFFF8D;border:1px solid black;border-radius:2px;}
+div.scrollmenu a:hover {
+  background-color: #777;
+}
+table {
+  font-family:sans-serif-smallcaps;
+ font-size:15px;
+  border: 1px solid red;
+  border-collapse: collapse;
+  background-color: #D4EED1;
+  width: 100%;
+  text-align: left;
+  margin:1px;
+}
+td{border: 1px solid red;padding:10px;}
+th{border: 1px solid red;padding:10px;font-family:i;}
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+div.section{border: 1px solid red;margin:20px;border-radius:20px;}
+div.section li{background-color:white;box-shadow:0px 0px 0px #616161;}
+div.section a{color:red;font-family:sans-serif-smallcaps;font-size:20px;}
+div.section h4{color:white;text-align:center; background-color:red;margin:0px;border-radius:20px;}
+li.section{border: 1px solid red;margin:20px;}
+li.section h3{font-family:head;margin:0px; background-color:red;color:white;font-size:20px;}
+li.section p{font-size:20px;}
+li.section h1{background-color:green;color:white;margin:0px;font-family:sans-serif-smallcaps;font-size:20px;}
+li.menu {background-color:red;}
+li.menu a{color:white;text-align:center;}
+div.set{border:2px solid black;margin:5px;}
