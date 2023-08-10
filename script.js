@@ -14,9 +14,10 @@ function myFunction() { var input, filter, ul, li, a, i; input = document.getEle
         greet = 'Good Morning';
     else if (hrs >= 12 && hrs <= 16)
         greet = 'Good Afternoon';
-    else if (hrs >= 16 && hrs <= 24)
+    else if (hrs >= 16 && hrs <= 21)
         greet = 'Good Evening';
-
+    else if (hrs >= 21 && hrs <= 24)
+        greet = 'Good Night';
 
     document.getElementById('wishes').innerHTML =
     '<b>'+ 'Hi ' +   greet +    '</b>   '
@@ -25,8 +26,9 @@ function myFunction() { var input, filter, ul, li, a, i; input = document.getEle
 //last modified//
 var date = document.lastModified;
       var lastModifiedDate = new Date(date);
-      document.getElementById("result").innerHTML = "Last Modified On : " + lastModifiedDate;
+  
 
 
-//footer//
-document.write('<footer><div class="footer"><div id = "result"></div></div></footer>');
+document.getElementById("result").innerHTML = "Last Modified On : " + lastModifiedDate;
+
+

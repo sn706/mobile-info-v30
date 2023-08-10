@@ -1,1 +1,2 @@
-document.write('<footer><p></p></footer>');
+//footer//
+document.write('<center><p>Galaxy Mobiles Moolamattom</p></center>');
