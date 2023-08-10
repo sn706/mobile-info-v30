@@ -92,3 +92,9 @@ li.ccn h2{background-color:brown;color:white;font-family:head;text-align:center;
 li.ccn h4{background-color:green;color:white;font-family:head;margin:12px;text-align:center;font-size:20px;border-radius:10px;}
 li.ccn p{font-family:i;text-align:center;font-size:20px;}
 strong{color:blue;font-family:i;}
+li.home{box-shadow:2px 2px 2px 2px black;margin:10px;}
+li.home h2{font-family:ib; background-color:brown;color:white;}
+li.home p{font-size:20px;}
+li.home h5{color:blue;font-family:head;text-align:right;font-size:20px;padding:0px;}
+footer{ background-color:red;color:white;font-family:i;}
+
