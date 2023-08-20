@@ -53,7 +53,7 @@ h3{font-family:head;}
 
 #result{color:red;font-family:head;}
 #head{border: none; border-radius: 40px 10px; background:#DCEDC8 ;}
-#wishes{font-family:i;text-align:center;}
+#wishes{font-family:i;}
 div.item {color:white;background: linear-gradient(360deg, #fd6f46 10%, #33691E 90%); }
 table {
   font-family:sans-serif-smallcaps;
@@ -97,4 +97,4 @@ li.home h2{font-family:ib; background-color:brown;color:white;}
 li.home p{font-size:20px;}
 li.home h5{color:blue;font-family:head;text-align:right;font-size:20px;padding:0px;}
 footer{ background-color:red;color:white;font-family:i;}
-
+li.call h4{background-color:green;color:white;font-family:head;margin:12px;text-align:center;font-size:20px;border-radius:10px;}
