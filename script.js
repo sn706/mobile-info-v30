@@ -20,7 +20,7 @@ function myFunction() { var input, filter, ul, li, a, i; input = document.getEle
         greet = 'Good Night';
 
     document.getElementById('wishes').innerHTML =
-    '<b>'+ 'Hi ' +   greet +   ' & Happy Onam </b>   '
+    '<b>'+ 'Hi ' +   greet +   '  </b>   '
     ;
 
 //last modified//
