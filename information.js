@@ -1,1 +1,0 @@
-document.write('<ul id="myMenu"><li><a ><h2>Information</h2></a></li><li class="data"><a href="mobile radiation.html"><h6>Information</h6><h3>മൊബൈൽ റേഡിയേഷൻ</h3><p></p></a></li><br></ul><script src="script.js"></script>');
