@@ -121,4 +121,5 @@ li.usd h4{background-color:green;color:white;font-family:i;margin:0px;text-align
 div.policy h1,p,h2{font-family:head;}
 div.policy h1{text-align:center;}
 div.policy a{text-decoration: underline;color:blue;}
+li.shop{border-top-right-radius: 15vw;border-bottom-right-radius: 5vw;background-image: linear-gradient(to right,#E0F7FA,#FFFFFF,#FFEBEE,#ffffff);}
 
